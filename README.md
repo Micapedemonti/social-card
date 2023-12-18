@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# HolaJuniors - Crea un componente "social card"
+Desafío de programación de [HolaJuniors](https://holajuniors.com).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Nuestros desafíos te ayudan a mejorar tus habilidades de programación mediante la creación de proyectos realistas.
 
-## Available Scripts
+## Requerimientos del proyecto: [Crea un componente "social card"](https://holajuniors.com/challenges/crea-un-componente-social-card)
 
-In the project directory, you can run:
+Tu objetivo consiste en traducir el diseño de la imagen de referencia de una publicación en redes sociales a un código funcional. Puedes implementar este diseño utilizando tecnologías web como HTML y CSS, o bien, crear una versión de aplicación móvil utilizando Swift, Kotlin, React Native o la tecnología que prefieras.
 
-### `npm start`
+Este desafío te brinda la oportunidad de crear un componente de interfaz que desempeña un papel fundamental en nuestra vida cotidiana.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+¡Buena suerte!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Stack utilizado
+React js, bootstrap .
 
-### `npm test`
+## Screenshots y vista previa
+[enlace a la vista previa del trabajo finalizado](https://card-social.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Instalación
+1- En tu terminal ejecuta el siguiente comando: git clone https://github.com/Micapedemonti/social-card.git
+2-Abre el proyecto en tu editor de codigo predeterminado y ejecuta NPM start.
+## Licencia
+[MIT](https://choosealicense.com/licenses/mit/)
+La mayoría de los proyectos de código abierto utilizan la licencia MIT. Siéntete libre de elegir la licencia que prefieras
