@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+}
+.App{
+  background-color: #f1f1f1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.body-card{
+  padding: 0 !important;
+}
+.card-img{
+  height: 200px;
+  width: 200px;
+}
+.user{
+  display: flex;
+}
+.profile-user{
+  width: 20%;
+  text-align: center;
+  margin-top: 2%;
+}
+.name-user{
+  margin-top: 2%;
+}
+.name-user{
+  display: flex;
+  flex-direction: column;
+}
+.avatar{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  filter: grayscale(0.7);
+}
+.name-user h1{
+  font-size: 13px;
+  margin: 0;
+  font-weight: 800;
+}
+.name-user p{
+  font-size: 13px;
+  color: #7c8488;
+}
+.text-card{
+  font-size: 14px;
+  padding: 3%;
+  border-bottom: 0.1px solid #d3dade;
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.btn-footer{
+  background: transparent;
+  border: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+.btn-footer p{
+  display: flex;
+  height: 100%;
+  align-items: flex-end;
+  font-size: 13px;
+  color: #7c8488;
+}
